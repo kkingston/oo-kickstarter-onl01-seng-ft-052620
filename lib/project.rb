@@ -4,4 +4,7 @@ class Backer
   def initialize(title)
     @title = title
   end 
+  
+  def backers
+    @backers = []
 end 
